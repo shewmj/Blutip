@@ -1,0 +1,10 @@
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\bin\Debug\netcoreapp2.1\BlutipTechnologies.deps.json
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\bin\Debug\netcoreapp2.1\BlutipTechnologies.runtimeconfig.json
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\bin\Debug\netcoreapp2.1\BlutipTechnologies.runtimeconfig.dev.json
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\bin\Debug\netcoreapp2.1\BlutipTechnologies.dll
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\bin\Debug\netcoreapp2.1\BlutipTechnologies.pdb
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\obj\Debug\netcoreapp2.1\BlutipTechnologies.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\obj\Debug\netcoreapp2.1\BlutipTechnologies.AssemblyInfoInputs.cache
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\obj\Debug\netcoreapp2.1\BlutipTechnologies.AssemblyInfo.cs
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\obj\Debug\netcoreapp2.1\BlutipTechnologies.dll
+C:\Users\Matt\Code\BlutipTechnologies\BlutipTechnologies\obj\Debug\netcoreapp2.1\BlutipTechnologies.pdb
